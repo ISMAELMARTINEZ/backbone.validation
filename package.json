@@ -28,7 +28,7 @@
     "underscore": ">=1.4.3"
   },
   "devDependencies": {
-    "grunt": "~0.4.1",
+    "grunt": "~1.6.1",
     "buster": "~0.7.8",
     "grunt-docco": ">=0.3.0",
     "grunt-shell": ">=0.1.3",
